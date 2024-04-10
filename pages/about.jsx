@@ -1,7 +1,7 @@
 import { MyRekv } from "../components/MyComponent"
 
 export default function Page() {
-  return <><h1>О нас</h1>
+  return <><h1>Адрес и реквизиты</h1>
   <h3>Адрес: Москва, Кремль, Царские палаты</h3>
   <h3>Банк - Буратино банк, расчётный счёт 122345566</h3>
   <h3>Директор - Кот Базилио</h3>
